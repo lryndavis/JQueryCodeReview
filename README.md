@@ -6,9 +6,9 @@
 This page allows a user to create a list of their top 5 favorite things, through use of jquery and javascript. It uses Bootstrap as a base for styling but also adds additional CSS. 
 
 ### Setup 
-Access at http://github.com/lryndavis/JQueryCodeRev
+Access at http://github.com/lryndavis/JQueryCodeReview
 
-Or on github pages at http://lryndavis.github.io/JQueryCodeRev
+Or on github pages at http://lryndavis.github.io/JQueryCodeReview
 
 ### Legal 
 
